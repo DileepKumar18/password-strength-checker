@@ -39,6 +39,3 @@ Password Strength Score: 4/5
  - Include at least one special character.
 ```
 
-## 📜 License
-
-MIT License
